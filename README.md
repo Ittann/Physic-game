@@ -5,6 +5,7 @@ this game is a test of pymunk library
 Control:
 
 right mouse button - spawn prop
+
 left mouse button - take prop
 
 1, 2, 3 - choice between props
