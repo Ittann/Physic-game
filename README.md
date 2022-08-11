@@ -1,6 +1,9 @@
 # Physic-game
 this game is a test of pymunk library 
+
+
 Control:
+
 right mouse button - spawn prop
 left mouse button - take prop
 
