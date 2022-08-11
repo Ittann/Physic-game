@@ -16,3 +16,11 @@ W and S - choice between prop mass, radius and length
 
 A and D - + and - for variable props
 
+requirements:
+
+pip install multiprocess
+
+pip install pygame
+
+pip install pymunk 
+
